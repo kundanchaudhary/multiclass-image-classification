@@ -16,6 +16,9 @@ In this project, with optimal model hyperparameters, image augmentation, and ens
 ## References:
 
 [1] https://gogul.dev/software/image-classification-python
+
 [2] https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+
 [3] https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
+
 [4] https://github.com/manashpratim/Intel-image-Classification/blob/master/Intel_Image_Classification.ipynb
